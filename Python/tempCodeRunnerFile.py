@@ -1,1 +1,1 @@
-num
+print(myList1.count())
